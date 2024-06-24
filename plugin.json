@@ -1,8 +1,8 @@
 {
   "slug": "Mojo",
   "name": "Mojo",
-  "version": "3.0.0",
-  "license": "CC0 1.0 Universal",
+  "version": "2.1.0",
+  "license": "CC0-1.0",
   "brand": "Mojo Modules",
   "author": "Tom DA SILVA FARIA",
   "authorEmail": "tomdasilvafaria@outlook.fr",
@@ -53,9 +53,7 @@
       "name": "Div",
       "description": "Clock divider and multiplier",
       "tags": [
-        "Clock",
-        "Divider", 
-        "Multiplier", 
+        "Clock modulator", 
         "Expander"
       ]
     }, 
@@ -64,7 +62,7 @@
       "name": "Comparo",
       "description": "Advanced hysteresis voltage comparator",
       "tags": [
-        "Comparator",
+        "Logic",
         "Waveshaper"
       ]
     }
